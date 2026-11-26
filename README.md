@@ -11,7 +11,9 @@ I build software for independent food operators: point-of-sale, workforce and in
 ## 🧾 Sienna QSR: offline-first POS for quick-service restaurants
 **Live:** [sienna-qsr.web.app](https://sienna-qsr.web.app/)
 
-<img src="sienna-qsr-pin.png" alt="Sienna QSR PIN entry screen" width="600" />
+<img src="sienna-qsr-register.png" alt="Sienna QSR register with an open order" width="800" />
+
+<img src="sienna-qsr-pin.png" alt="Sienna QSR PIN lock screen" width="380" />
 
 - Installable **PWA** with a versioned service-worker precache: works fully offline, and updates wait for the cashier so the register never reloads mid-sale
 - Order history in **IndexedDB**, with ticket numbers assigned inside the same transaction as the insert
